@@ -21,7 +21,7 @@ Working:
 
 # Objective 
 Align two overlapping 3D point cloud scans using:
-1. ICP (Iterative Closest Point) – for fine-tuning alignment when initial guess is close.
+1. ICP (Iterative Closest Point) – For fine-tuning alignment when initial guess is close.
 2. FGR (Fast Global Registration) – for fast, global matching based on features, without needing an initial guess.
 
 Then compare both in terms of
