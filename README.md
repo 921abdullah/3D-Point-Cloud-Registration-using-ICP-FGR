@@ -25,6 +25,6 @@ Align two overlapping 3D point cloud scans using:
 2. FGR (Fast Global Registration) – for fast, global matching based on features, without needing an initial guess.
 
 Then compare both in terms of
-1. Accuracy (fitness and RMSE)
+1. Accuracy (Fitness and RMSE)
 2. Speed
 3. Visual result
